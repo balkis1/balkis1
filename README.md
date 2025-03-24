@@ -1,4 +1,4 @@
-👋 Hi, I’m @balkis1
+👋 Hi there! , I’m @balkis1
 
 🎓 Data Scientist | 🧪 Biomedical AI Enthusiast
 
