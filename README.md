@@ -63,17 +63,17 @@
     <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python"/>
   </a>
   <!-- PyTorch -->
-  <a href="https://pytorch.org/" target="_blank">
-    <img src="https://img.icons8.com/ios-filled/50/EE4C2C/pytorch.png" alt="PyTorch"/>
-  </a>
+<a href="https://pytorch.org/" target="_blank">
+  <img src="https://raw.githubusercontent.com/pytorch/pytorch/main/docs/source/_static/img/pytorch-logo-dark.svg" alt="PyTorch" width="48"/>
+</a>
   <!-- Scikit-learn -->
   <a href="https://scikit-learn.org/" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-learn" width="48"/>
   </a>
-  <!-- Seaborn -->
-  <a href="https://seaborn.pydata.org/" target="_blank">
-    <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" alt="Seaborn" width="48"/>
-  </a>
+ <!-- Seaborn -->
+<a href="https://seaborn.pydata.org/" target="_blank">
+  <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" alt="Seaborn" width="90"/>
+</a>
   <!-- TensorFlow -->
   <a href="https://www.tensorflow.org/" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/tensorflow.png" alt="TensorFlow"/>
